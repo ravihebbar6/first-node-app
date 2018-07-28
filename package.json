@@ -1,0 +1,9 @@
+{
+	"name": "My-first-node-app",
+	"version": "1.0.0",
+	"description": "This is my first node js app to deploy on Heroku",
+	"main": "server.js",
+	"engines": {
+    	"node": "8.11.2"
+  	}
+}
